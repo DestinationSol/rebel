@@ -2,7 +2,7 @@
   "rebelX": {
     "dmg": 2.6,
     "dmgType": "energy",
-    "spdLen": 6,
+    "speed": 6,
 
     "tex": "rebel:rebelX",
     "texSz": 0.12,
